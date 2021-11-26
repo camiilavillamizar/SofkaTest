@@ -1,0 +1,8 @@
+spring:
+  data:
+    mongodb:
+      database: sofkaTestDb
+      host: mongodb
+      port: 27017
+      
+server:  port: 9292
